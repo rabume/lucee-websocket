@@ -1,4 +1,4 @@
-# lucee-websocket-example
+# lucee-websocket
 A working example with the latest WebSocket extension for Lucee <br>
 based on the examples from [Igal Sapir](https://github.com/isapir) and [flowt-au](https://github.com/flowt-au).
 
