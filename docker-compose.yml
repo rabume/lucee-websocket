@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  lucee:
+    build: .
+
+    volumes:
+      - ./app:/lucee/webapps/ROOT
+
+    ports:
+    - 3000:8888
